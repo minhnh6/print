@@ -1,0 +1,9 @@
+[03-Jan-2011 04:18:51] PHP Warning:  include_once(../inc/global.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 2
+[03-Jan-2011 04:18:51] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '../inc/global.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 2
+[03-Jan-2011 04:18:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'allcity'@'localhost' (using password: NO) in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 8
+[03-Jan-2011 04:18:51] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 8
+[05-Jan-2011 22:00:47] PHP Parse error:  syntax error, unexpected $end in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 54
+[05-Jan-2011 22:01:00] PHP Parse error:  syntax error, unexpected $end in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 54
+[05-Jan-2011 22:01:59] PHP Parse error:  syntax error, unexpected $end in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 54
+[05-Jan-2011 22:02:58] PHP Parse error:  syntax error, unexpected $end in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 54
+[05-Jan-2011 22:04:21] PHP Parse error:  syntax error, unexpected $end in /home/allcity/public_html/ourcenter/administration/js/link_list.php on line 54

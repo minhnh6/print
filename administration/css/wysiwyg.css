@@ -1,0 +1,147 @@
+/* CSS Document */
+
+body, table, tr, td {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #555;		
+	line-height: 150%;
+}
+
+hr {
+	float: left;
+	width: 100%;
+	border: none;
+	background-color: #B4CBDF;
+	color: #B4CBDF;
+	height: 1px;
+}
+
+.contenttext {
+	font-family: Verdana;
+	font-size: 12px;
+	color: #555;		
+	line-height: 150%;
+}
+
+.pagesubtitle {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #0a3d5a;
+}
+
+.pagesubtitle_large { 
+	font-family: Tahoma;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #7895ad;
+	padding-bottom: 8px;
+}
+
+a:link {
+	font-family: Verdana;
+	font-size: 12px;	
+	text-decoration: none;
+	color: #1e87d5;
+	outline: none;
+}
+a:visited {
+	font-family: Verdana;
+	font-size: 12px;	
+	text-decoration: none;
+	color: #1e87d5;	
+	outline: none;
+}
+a:hover {
+	font-family: Verdana;
+	font-size: 12px;	
+	text-decoration: underline;
+	color: #4e91c7;	
+	outline: none;
+}
+a:active {
+	font-family: Verdana;
+	font-size: 12px;	
+	text-decoration: none;
+	color: #1e87d5;	
+	outline: none;
+}
+
+a.pagesubtitle:link {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #0a3d5a;	
+	text-decoration: none;
+	outline: none;
+}
+a.pagesubtitle:visited {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #0a3d5a;
+	text-decoration: none;
+	outline: none;
+}
+a.pagesubtitle:hover {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #006CC8;	
+	text-decoration: underline;
+	outline: none;
+}
+a.pagesubtitle:active {
+	font-family: Verdana;
+	font-size: 13px;
+	font-weight: bold;
+	color: #0a3d5a;
+	text-decoration: none;
+	outline: none;
+}
+
+a.pagesubtitle_large:link {
+	font-family: Verdana;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #7895ad;
+	padding-bottom: 8px;
+}
+a.pagesubtitle_large:visited {
+	font-family: Verdana;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #7895ad;
+	padding-bottom: 8px;
+}
+a.pagesubtitle_large:hover {
+	font-family: Verdana;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #006CC8;
+	padding-bottom: 8px;
+}
+a.pagesubtitle_large:active {
+	font-family: Verdana;
+	font-size: 18px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #7895ad;
+	padding-bottom: 8px;
+}
+
+ul {
+	list-style:none;
+	margin:0;
+	padding:5px;	\
+	color: #000;
+}
+
+ul li{
+	color: #000;
+	padding:3px 0px 3px 15px;
+}

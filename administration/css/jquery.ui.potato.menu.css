@@ -1,0 +1,109 @@
+
+/* style */
+ul.potato-menu {
+	margin:0;
+	padding:0;
+	width:auto;
+	list-style:none;
+	width:840px;
+	height:35px;
+	padding-left:16px;
+}
+.potato-menu:after {
+	content: " ";
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0.1px;
+	font-size: 0.1em;
+	line-height: 0;
+}
+ul.potato-menu li.potato-menu-item {
+	padding:0 36px 0px 18px;
+	margin:0;
+	position:relative;
+	list-style:none;
+	list-style-position:outside;
+	display:inline;
+	float:left;
+	background:url(../imgs/splittermenu.png) right bottom no-repeat;
+}
+ul.potato-menu li.potato-menu-item a {
+	display:block;
+	text-decoration:none;
+	white-space:nowrap;
+	outline:0;
+}
+ul.potato-menu ul.potato-menu-group {
+	white-space: nowrap;
+	float:left;
+	margin:0;
+	padding:4px;
+	position:absolute;
+	display:none;
+	z-index:100000;
+	background-color:#1E87D5;
+	-moz-border-radius:0px 0px 4px 4px;
+	-khtml-border-radius:0px 0px 4px 4px;
+	-webkit-border-radius:0px 0px 4px 4px;
+	border-radius:0px 0px 4px 4px;
+	border-color:#FFF;
+	/*behavior: url(/css/border-radius.htc);*/
+	
+}
+li.potato-menu-item {
+	font-size:11px;
+}
+li.potato-menu-ext-right {
+	padding:0 19px 0px 16px;
+	background:url(../imgs/splittermenurt.png) right bottom no-repeat;
+}
+
+ul.potato-menu-group a {
+	background:#1E87D5;
+}
+ul.potato-menu-group a:hover {
+	background: #004a8d;
+}
+.potato-menu a {
+	padding:9px 10px 9px 0px;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #004a8d;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+
+.potato-menu ul li a {
+	padding:8px 20px;
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #fff;
+	font-weight: bold;
+	text-decoration:none;
+}
+.potato-menu a:hover {
+	color:#4e91c7;
+}
+.potato-menu ul li a:hover {
+	color:#fff;	
+}
+ul#potato-menu-item1{
+	
+}
+ul.potato-menu li.potato-menu-item1:hover {
+	background-color:#4e91c7;
+	width:100%;
+}
+ul.potato-menu li.potato-menu-item1 {
+	padding:0;
+	margin:0;
+	position:relative;
+	list-style:none;
+	list-style-position:outside;
+	display:inline;
+	clear:left;
+	background-color:#004a8d;
+	width:100%;
+}

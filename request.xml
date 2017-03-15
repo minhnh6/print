@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<TGSMerchantRequest version="0.1">
+  <AuthKey merchantId="9375440001">F948E9DECB8F817CC08D82A464E38D2502B23FB9</AuthKey>
+  <Transactions>
+    <CreditCardAuthRequest capture="true">
+      <CustomerAccountInfo>
+        <CardNumber cvv="123" cvvState="1">4007 0000 0002 7</CardNumber>
+        <ExpDate>0116</ExpDate>
+      <NameOnCard>test</NameOnCard></CustomerAccountInfo>
+      <MerchantInfo>
+        <TerminalID>1</TerminalID>
+      </MerchantInfo>
+      <Currency>
+        <Amount>135681</Amount>
+      <Code>840</Code></Currency>
+      <AddressInfo>
+        <IP>::1</IP>
+        <StreetAddress>test</StreetAddress>
+        <City>test</City>
+        <Province>etete</Province>
+        <PostalCode>32232</PostalCode>
+        <CountryCode>TW</CountryCode>
+      </AddressInfo>
+      <ACI>Y</ACI>
+      <ECI>00</ECI>
+    </CreditCardAuthRequest>
+  </Transactions>
+</TGSMerchantRequest>

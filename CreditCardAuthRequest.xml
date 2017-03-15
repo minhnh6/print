@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<TGSMerchantRequest version="0.1">
+  <AuthKey merchantId=""/>
+  <Transactions>
+    <CreditCardAuthRequest>
+      <CustomerAccountInfo>
+        <CardNumber/>
+        <ExpDate/>
+      </CustomerAccountInfo>
+      <MerchantInfo>
+        <TerminalID/>
+      </MerchantInfo>
+      <Currency>
+        <Amount/>
+      </Currency>
+      <AddressInfo>
+        <IP/>
+        <StreetAddress/>
+        <City/>
+        <Province/>
+        <PostalCode/>
+        <CountryCode/>
+      </AddressInfo>
+      <ACI/>
+      <ECI/>
+    </CreditCardAuthRequest>
+  </Transactions>
+</TGSMerchantRequest>

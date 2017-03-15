@@ -1,0 +1,37 @@
+[07-May-2012 11:26:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'sssplne_ppuser'@'localhost' (using password: YES) in /usr/home/printing/public_html/inc/global_admin.php on line 32
+[07-May-2012 11:26:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'sssplne_ppuser'@'localhost' (using password: YES) in /usr/home/printing/public_html/inc/global_admin.php on line 32
+[16-Jul-2012 01:26:05] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 401
+[16-Jul-2012 01:26:07] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 401
+[16-Jul-2012 02:24:33] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:24:58] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:36:42] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:36:57] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:37:05] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:37:23] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:37:32] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:37:40] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 02:37:54] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:38:26] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 401
+[16-Jul-2012 02:39:19] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:42:38] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:43:43] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:54:05] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 02:56:27] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 204
+[16-Jul-2012 06:14:21] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 06:14:25] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 07:09:20] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[16-Jul-2012 07:10:32] PHP Warning:  Invalid argument supplied for foreach() in /usr/home/printing/public_html/administration/products.php on line 55
+[23-Jul-2012 04:38:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'printing_printin'@'localhost' (using password: YES) in /home/printing/public_html/inc/global_admin.php on line 32
+[23-Jul-2012 04:38:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'printing_printin'@'localhost' (using password: YES) in /home/printing/public_html/inc/global_admin.php on line 32
+[23-Jul-2012 04:56:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'printing_printin'@'localhost' (using password: YES) in /home/printing/public_html/inc/global_admin.php on line 32
+[06-Aug-2012 03:14:24] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 807
+[06-Aug-2012 03:27:40] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 807
+[06-Aug-2012 03:38:37] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 807
+[06-Aug-2012 03:40:38] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 807
+[06-Aug-2012 04:00:50] PHP Parse error:  syntax error, unexpected $end in /home/printing/public_html/administration/products.php on line 510
+[06-Aug-2012 04:01:11] PHP Parse error:  syntax error, unexpected $end in /home/printing/public_html/administration/products.php on line 510
+[06-Aug-2012 04:02:52] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 1
+[06-Aug-2012 04:05:26] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 1
+[06-Aug-2012 04:06:00] PHP Warning:  Invalid argument supplied for foreach() in /home/printing/public_html/administration/products.php on line 404
+[06-Aug-2012 04:20:26] PHP Parse error:  syntax error, unexpected '}' in /home/printing/public_html/administration/products.php on line 1
+[06-Aug-2012 04:20:29] PHP Parse error:  syntax error, unexpected '}' in /home/printing/public_html/administration/products.php on line 1
